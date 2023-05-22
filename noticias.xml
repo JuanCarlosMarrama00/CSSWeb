@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Noticias Rafa Nadal</title>
+	<link>https://juancarlosmarrama00.github.io/CSSWeb/index.html</link>
+	<description>En este canal RSS, vamos a encontrar noticias relacionadas con el tenista Rafael Nadal</description>
+	<language>es</language>
+		<item>
+			<title>Rafa Nadal se retira este año del Roland Garros</title>
+			<link>https://juancarlosmarrama00.github.io/CSSWeb/Noticia1.html</link>
+			<pubDate>Fri, 19 May 2023 13:42:20 GMT</pubDate>
+			<description>En esta noticia nos encontraremos con la desoladora noticia de que Rafa Nadal se retira este año del Roland Garros</description>
+		</item>
+		<item>
+		  <title>Rafa Nadal se retira el año que viene del tenis profesional</title>
+			<link>https://juancarlosmarrama00.github.io/CSSWeb/Noticia2.html</link>
+			<pubDate>Fri, 19 May 2023 13:50:20 GMT</pubDate>
+			<description>En esta noticia nos encontraremos con la noticia de que Rafa Nadal se retirará el año que viene del circuito profesional</description>
+		</item>
+	</channel>
+</rss>
